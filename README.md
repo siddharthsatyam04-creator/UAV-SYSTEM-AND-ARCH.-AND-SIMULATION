@@ -54,14 +54,14 @@ python deliverable3_simulation/uav_altitude_stabilized.py
 
 ---
 
-## 🎯 Learning Outcomes Achieved
+##Learning Outcomes Achieved
 
-- ✅ Understand UAV types (Multirotor, Fixed-Wing, Hybrid VTOL)
-- ✅ Understand components and power flow
-- ✅ Know basic drone physics (Thrust, Lift, Drag, Pitch, Roll, Yaw)
-- ✅ Run a simple altitude simulation in Python
-- ✅ Understand real-world drone applications
-- ✅ Ready for advanced simulation (PX4 SITL / Gazebo)
+-  Understand UAV types (Multirotor, Fixed-Wing, Hybrid VTOL)
+-  Understand components and power flow
+-  Know basic drone physics (Thrust, Lift, Drag, Pitch, Roll, Yaw)
+-  Run a simple altitude simulation in Python
+-  Understand real-world drone applications
+-  Ready for advanced simulation (PX4 SITL / Gazebo)
 
 ---
 
@@ -71,8 +71,4 @@ python deliverable3_simulation/uav_altitude_stabilized.py
 - NumPy
 - Matplotlib
 
-## 📚 Recommended Next Steps (Task 2)
 
-- Install PX4 SITL + Gazebo
-- Simulate full 3-DOF drone movement
-- Implement basic PID controller
