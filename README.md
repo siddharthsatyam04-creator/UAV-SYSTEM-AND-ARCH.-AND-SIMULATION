@@ -28,31 +28,12 @@ uav-task1/
 
 | # | Deliverable | Status |
 |---|-------------|--------|
-| 1 | UAV Architecture Report (2–3 pages) | ✅ Complete |
-| 2 | Thrust Calculation Sheet | ✅ Complete |
-| 3 | Simulation Graph + Explanation | ✅ Complete |
-| 4 | Industry Trend Summary (1–2 pages) | ✅ Complete |
+| 1 | UAV Architecture Report (2–3 pages) |Complete |
+| 2 | Thrust Calculation Sheet |  Complete |
+| 3 | Simulation Graph + Explanation |  Complete |
+| 4 | Industry Trend Summary (1–2 pages) | Complete |
 
----
 
-## 🚀 How to Run the Simulation
-
-### Requirements
-```bash
-pip install numpy matplotlib
-```
-
-### Run base simulation
-```bash
-python deliverable3_simulation/uav_altitude_simulation.py
-```
-
-### Run stabilized hover simulation
-```bash
-python deliverable3_simulation/uav_altitude_stabilized.py
-```
-
----
 
 ##Learning Outcomes Achieved
 
